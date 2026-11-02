@@ -1,0 +1,8 @@
+/home/aaryansinghchauhan/SigmaOS/.agents/tasks/phase3-desktop/SigmaOS-theme-engine/target/debug/build/target-lexicon-5d208f1785fb6f91/build_script_build-5d208f1785fb6f91.d: /home/aaryansinghchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.12.16/build.rs /home/aaryansinghchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.12.16/src/data_model.rs /home/aaryansinghchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.12.16/src/triple.rs /home/aaryansinghchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.12.16/src/targets.rs
+
+/home/aaryansinghchauhan/SigmaOS/.agents/tasks/phase3-desktop/SigmaOS-theme-engine/target/debug/build/target-lexicon-5d208f1785fb6f91/build_script_build-5d208f1785fb6f91: /home/aaryansinghchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.12.16/build.rs /home/aaryansinghchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.12.16/src/data_model.rs /home/aaryansinghchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.12.16/src/triple.rs /home/aaryansinghchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.12.16/src/targets.rs
+
+/home/aaryansinghchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.12.16/build.rs:
+/home/aaryansinghchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.12.16/src/data_model.rs:
+/home/aaryansinghchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.12.16/src/triple.rs:
+/home/aaryansinghchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/target-lexicon-0.12.16/src/targets.rs:

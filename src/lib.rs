@@ -7,6 +7,9 @@ pub mod css;
 pub mod icons;
 pub mod palette;
 
+/// Color scheme generation from wallpapers/images (Wallust-style).
+pub mod sigmacolorscheme;
+
 use std::{collections::HashMap, fmt};
 
 // ---------------------------------------------------------------------------
